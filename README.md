@@ -1,15 +1,9 @@
 # Hi there 👋
 ### 📊 Data, Dashboards & Vibe Coding
 
-Welcome to my GitHub corner ✨  
-Glad you stopped by.
+Welcome to my GitHub corner ✨ Glad you stopped by. My background is in digital marketing, but over time I became more curious about the data behind everything, which slowly pulled me into analytics, dashboards, automation, and building projects from random ideas. These days I enjoy creating things that are both useful and fun to work on, whether it’s cleaning messy datasets, testing new ideas, or vibe coding something just to see where it goes.
 
-I enjoy building dashboards, cleaning messy datasets, vibe coding random ideas, and testing new things just to see where they go.
-
-Most of the time, I learn by building.  
-That usually turns small ideas into bigger projects than expected.
-
-I like finding patterns in messy data, making dashboards feel clean and satisfying, and debugging while sports highlights play in the background 🏟️
+Most of the time I learn by building, which somehow turns simple ideas into bigger projects than expected. I like finding patterns in messy data, making dashboards feel clean and satisfying, and figuring things out step by step along the way. There’s also a pretty good chance I’m debugging something while sports highlights play in the background 🏟️
 
 ---
 
