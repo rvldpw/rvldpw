@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Rivaldi
+# Hi there 👋
 
 ### 📊 Data, Dashboards & Vibe Coding
 
