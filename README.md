@@ -1,5 +1,4 @@
 # Hi there 👋
-
 ### 📊 Data, Dashboards & Vibe Coding
 
 Welcome to my GitHub corner ✨  
