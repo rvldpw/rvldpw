@@ -2,15 +2,11 @@
 
 ## 📊 Data, Dashboards & Vibe Coding
 
-Welcome to my GitHub corner ✨  
-I like building things, exploring data, and turning random ideas into real projects.
+Welcome to my GitHub corner ✨
 
-Usually doing one of these:
-- 📈 Building dashboards  
-- 🧩 Cleaning messy datasets  
-- 💻 Vibe coding something random  
-- ⚡ Testing new ideas  
-- ⚾ Watching sports highlights while debugging  
+Most of the time I’m either building dashboards, cleaning messy datasets, vibe coding random ideas, or testing something new just to see if it works.
+
+I learn best by building, which usually turns small ideas into full projects faster than expected. I enjoy finding patterns in messy data, making dashboards feel clean and satisfying, and there’s a high chance I’m debugging something while watching sports highlights in the background 🏟️
 
 ---
 
@@ -24,18 +20,10 @@ Usually doing one of these:
 
 ---
 
-## ⚡ Fun Facts
-- I learn best by building  
-- Small ideas become full projects fast  
-- Clean dashboards are underrated  
-- I enjoy finding patterns in messy data  
-- Probably debugging something right now  
-
----
-
 ## 🤝 Let’s Connect
 
 Open to connect with people into:
 data, tech, analytics, sports, or cool ideas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rvld/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=white)](https://rvldpw.github.io/)
