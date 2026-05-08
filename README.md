@@ -10,17 +10,7 @@ Usually doing one of these:
 - 🧩 Cleaning messy datasets  
 - 💻 Vibe coding something random  
 - ⚡ Testing new ideas  
-- 🏟️ Watching sports highlights while debugging  
-
----
-
-## 🌱 Currently Learning
-
-- SQL & data workflows  
-- Python for analytics  
-- Power BI  
-- Automation & systems  
-- Building projects along the way  
+- ⚾ Watching sports highlights while debugging  
 
 ---
 
@@ -35,7 +25,6 @@ Usually doing one of these:
 ---
 
 ## ⚡ Fun Facts
-
 - I learn best by building  
 - Small ideas become full projects fast  
 - Clean dashboards are underrated  
