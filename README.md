@@ -1,5 +1,5 @@
 # Hi there 👋
-### 📊 Data, Dashboards & Vibe Coding
+### 📊 Data-driven with a bit of vibe coding
 
 Welcome to my GitHub corner ✨ Glad you stopped by. My background is in digital marketing, but over time I became more curious about the data behind everything, which slowly pulled me into analytics, dashboards, automation, and building projects from random ideas. These days I enjoy creating things that are both useful and fun to work on, whether it’s cleaning messy datasets, testing new ideas, or vibe coding something just to see where it goes.
 
